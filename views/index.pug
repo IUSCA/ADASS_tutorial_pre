@@ -1,5 +1,6 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+    h1= title
+    p Running pre-tests
+    ng-include(src="'t/tests.html'")

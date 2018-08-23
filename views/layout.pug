@@ -1,7 +1,9 @@
 doctype html
-html
-  head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-  body
-    block content
+html(ng-app="myapp" ng-cloak="" ng-controller="HeadController")
+    head
+        title= title
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        script(src='javascripts/angular.min.js')
+        script(src='javascripts/test.js')
+    body
+        block content
