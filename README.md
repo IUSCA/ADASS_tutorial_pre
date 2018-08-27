@@ -2,16 +2,15 @@
 
 Follow these directions to make sure your computer is ready to participate in the 2018 ADASS MEAN Tutorial
 
-Install
-* node.js
-* npm
-* mongodb
+1. Install
+  * node.js
+  * npm
+  * mongodb
 
-Clone this repository
+2. Clone this repository
+  * `git clone https://github.com/IUSCA/ADASS_tutorial_pre.git`
 
-git clone https://github.com/IUSCA/ADASS_tutorial_pre.git
+3. `cd ADASS_tutorial_pre`
+4. `npm install && npm start`
 
-cd ADASS_tutorial_pre
-npm install && npm start
-
-Open http://localhost:3000 in a browser and check the verification results.
+5. Open http://localhost:3000 in a browser and check the verification results.
