@@ -3,9 +3,9 @@
 Follow these directions to make sure your computer is ready to participate in the 2018 ADASS MEAN Tutorial
 
 Install
--node.js
--npm
--mongodb
+.*node.js
+.*npm
+.*mongodb
 
 Clone this repository
 
