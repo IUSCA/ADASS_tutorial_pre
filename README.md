@@ -14,7 +14,7 @@ Follow these directions to make sure your computer is ready to participate in th
 5. Run `npm install && npm start`
 6. Open http://localhost:3000 in a browser and check the verification results.  
 
-If your verification fails, send the output of the web page and the console log to [youngmd@iu.edu](mailto:youngmd@iu.edu) for assistance.  There will also be a period before the tutorial session begins where setup help can be provided.  
+If your verification fails, send the output of the web page and the console log to [youngmd@iu.edu](mailto:youngmd@iu.edu?subject=ADASS%20Tutorial%202018) for assistance.  We will also be onsite for a period before the tutorial session begins to provide setup help.
 
 We highly recommend that you install and become familiar with an IDE suited for web development installed on your laptop, such as:
 
