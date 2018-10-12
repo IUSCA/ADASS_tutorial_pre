@@ -3,7 +3,7 @@
 Follow these directions to make sure your computer is ready to participate in the 2018 ADASS MEAN Tutorial
 
 1. Install (links to installation pages):
-   * [Node.js and npm](https://nodejs.org/en/download/)  
+   * [Node.js/npm (package manager)](https://nodejs.org/en/download/package-manager/) or [Node.js/npm (binary)](https://nodejs.org/en/download/)
    * [MongoDB](https://docs.mongodb.com/manual/administration/install-community/)
   
 2. Start MongoDB following the directions for your OS
@@ -12,7 +12,7 @@ Follow these directions to make sure your computer is ready to participate in th
   
 4. Run `cd ADASS_tutorial_pre`
 5. Run `npm install && npm start`
-6. Open http://localhost:3000 in a browser and check the verification results.  
+6. Open http://localhost:3000 in a browser and check the verification results.  You should see three "Success" messages at the top and a list of software versions below.  Please ensure that your installed Node.js is at least v8, and your installed MongoDB is at least v3.4.
 
 If your verification fails, send the output of the web page and the console log to [youngmd@iu.edu](mailto:youngmd@iu.edu?subject=ADASS%20Tutorial%202018) for assistance.  We will also be onsite for a period before the tutorial session begins to provide setup help.
 
