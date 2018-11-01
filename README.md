@@ -12,11 +12,18 @@ Follow these directions to make sure your computer is ready to participate in th
   
 4. Run `cd ADASS_tutorial_pre`
 5. Run `npm install && npm start`
-6. Open http://localhost:3000 in a browser and check the verification results.  You should see three "Success" messages at the top and a list of software versions below.  Please ensure that your installed Node.js is at least v8, and your installed MongoDB is at least v3.4.
-
-If your verification fails, send the output of the web page and the console log to [youngmd@iu.edu](mailto:youngmd@iu.edu?subject=ADASS%20Tutorial%202018) for assistance.  We will also be onsite for a period before the tutorial session begins to provide setup help.
+6. Open http://localhost:3000 in a browser and check the verification results.  
+   * You should see three "Success" messages at the top and a list of software versions below.  Please ensure that your installed Node.js is at least v8, and your installed MongoDB is at least v3.4.
+   * If your verification fails, send the output of the web page and the console log to [youngmd@iu.edu](mailto:youngmd@iu.edu?subject=ADASS%20Tutorial%202018) for assistance.  We will also be onsite for a period before the tutorial session begins to provide setup help.
+ 
+7. Return to the terminal window and terminate the running `npm start` process with `CTRL+c`
+8. Run `npm install express-generator -g`
+   * You may need to run this command as root/admin if you encounter an `EACESS` error 
+   
 
 We *highly recommend* that you install and become familiar with an IDE suited for web development, such as:
 
 *  [WebStorm](https://www.jetbrains.com/webstorm/)
 *  [Visual Studio Code](https://code.visualstudio.com/)
+
+Please check back here before the start of the conference as these instructions may receive updates.  
