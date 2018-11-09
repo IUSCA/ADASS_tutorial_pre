@@ -26,4 +26,8 @@ We *highly recommend* that you install and become familiar with an IDE suited fo
 *  [WebStorm](https://www.jetbrains.com/webstorm/)
 *  [Visual Studio Code](https://code.visualstudio.com/)
 
-Please check back here before the start of the conference as these instructions may receive updates.  
+
+###  Added 11/9
+*  [MEAN Stack Cheatsheet](https://docs.google.com/document/d/1mv8JhqXlggjaWaHEIa6vSQStE2_4Nn5Cxk_ksHihaQ0/edit?usp=sharing) - Useful list of commands, file descriptions, and code snippets.  A printed copy of the cheatsheet will be handed out at the start of the tutorial
+*  [mean-stack Tutorial Repository](https://github.com/IUSCA/mean-stack) - A repository of the code that will be produced during the tutorial, with checkpoint branches corresponding to different development points.  The sample dataset needed for the tutorial is also in this repository.
+
