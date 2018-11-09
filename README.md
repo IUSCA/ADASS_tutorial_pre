@@ -1,3 +1,5 @@
+### New instructions added on 11/9, please view the last items before attending tutorial session
+
 # ADASS 2018 MEAN Tutorial Setup and Validation
 
 Follow these directions to make sure your computer is ready to participate in the 2018 ADASS MEAN Tutorial
