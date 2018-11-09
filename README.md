@@ -1,4 +1,4 @@
-### New instructions added on 11/9, please view the last items before attending tutorial session
+### ***New instructions added on 11/9, please view the last items before attending tutorial session
 
 # ADASS 2018 MEAN Tutorial Setup and Validation
 
