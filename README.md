@@ -1,3 +1,7 @@
+### UPDATE 2020-07-16: Note that we have archived this repo, as we have switched from MEANa stack to MEVN stack for our web applications, and we are not actively maintaining this tutorial. Please contact us via sca.iu.edu if you have any questions.
+
+==========================================================================================================
+
 ### ***New instructions added on 11/9, please view the last items before attending tutorial session
 
 # ADASS 2018 MEAN Tutorial Setup and Validation
